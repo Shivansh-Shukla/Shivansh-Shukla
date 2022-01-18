@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivansh-Shukla
 - 👀 I’m interested in everything related to tech,computer or software
-- 🌱 I’m currently learning Game Dev
+- 🌱 I’m currently learning Nothing LOL
 - 🎆 I have Completed Learning :
 -                                - Linux
 -                                - Ansible 
