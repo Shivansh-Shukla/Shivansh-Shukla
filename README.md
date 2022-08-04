@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivansh-Shukla
+- 👋 Hi, I’m DisguisedDude
 - 👀 I’m interested in everything related to tech,computer or software
 - 🌱 I’m currently learning Nothing LOL
 - 🎆 I have Completed Learning :
